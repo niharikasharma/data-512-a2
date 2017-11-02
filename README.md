@@ -45,23 +45,23 @@ From our analysis following are the results that we learned and found:
 
 2. 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population¶
 
-| country     articles  population   percent  
+| country    | articles | population  | percent  |
 | ------- | :-------: | :-------: | :-------:  |
-| India     |    989 | 1314097616 | 0.000075  
-|     China      |   1138 | 1371920000 | 0.000083  
-|         Indonesia      |    215 |  255741973 | 0.000084  
-|         Uzbekistan   |        29  |  31290791 | 0.000093  
-|         Ethiopia    |      105  |  98148000 | 0.000107  
-|    Korea, North     |      39  |  24983000 | 0.000156  
-|     Zambia     |      26  |  15473900 | 0.000168  
-|       Thailand     |     112  |  65121250 | 0.000172  
-|  Congo, Dem. Rep. of     |     142  |  73340200 | 0.000194  
-|   Bangladesh     |     324  | 160411000 | 0.000202  
+| India     |    989 | 1314097616 | 0.000075   |
+|     China      |   1138 | 1371920000 | 0.000083  | 
+|         Indonesia      |    215 |  255741973 | 0.000084 |  
+|         Uzbekistan   |        29  |  31290791 | 0.000093  | 
+|         Ethiopia    |      105  |  98148000 | 0.000107   |
+|    Korea, North     |      39  |  24983000 | 0.000156   |
+|     Zambia     |      26  |  15473900 | 0.000168   |
+|       Thailand     |     112  |  65121250 | 0.000172 |  
+|  Congo, Dem. Rep. of     |     142  |  73340200 | 0.000194 |  
+|   Bangladesh     |     324  | 160411000 | 0.000202   |
 
 #### Countries like Nauru etc don't have a lot of politicians articles being pulished, Nauru has only 53 politician articles, but because their population of 10860 people is extremely low hence the number of articles on politician as a proportion of country population is significalty high for them compared to conutries like China with article count = 1138 and population = 1371920000. 
 
 3. 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
-| country    percent |
+| country  |  percent |
 | ------- | :-------: |
 | Korea, North  | 23.076923 |
 | Saudi Arabia |  11.764706 |
