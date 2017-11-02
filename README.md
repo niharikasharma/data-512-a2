@@ -30,7 +30,7 @@ From our analysis following are the results that we learned and found:
 
 1. 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
 
-| country | articles   | population  |   percent   | 
+| country | articles   | population  |   percentage   | 
 | ------- | :-------: | :-------: | :-------:  |
 | Nauru | 53       |  10860 | 0.488029   | 
 | Tuvalu | 55    |     11800 | 0.466102   | 
@@ -45,7 +45,7 @@ From our analysis following are the results that we learned and found:
 
 2. 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population¶
 
-| country    | articles | population  | percent  |
+| country    | articles | population  | percentage  |
 | ------- | :-------: | :-------: | :-------:  |
 | India     |    989 | 1314097616 | 0.000075   |
 |     China      |   1138 | 1371920000 | 0.000083  | 
@@ -60,22 +60,24 @@ From our analysis following are the results that we learned and found:
 
 #### Countries like Nauru etc don't have a lot of politicians articles being pulished, Nauru has only 53 politician articles, but because their population of 10860 people is extremely low hence the number of articles on politician as a proportion of country population is significalty high for them compared to conutries like China with article count = 1138 and population = 1371920000. 
 
-3. 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
-| country  |  percent |
-| ------- | :-------: |
-| Korea, North  | 23.076923 |
-| Saudi Arabia |  11.764706 |
-|   Uzbekistan  | 10.344828 |
-| Central African Republic |  10.294118 |
-|      Romania  |  9.770115 |
-|  Guinea-Bissau  |  9.523810 |
-|         Bhutan  |  9.090909 |
-|           Vietnam  |  8.376963 |
-|      Dominica  |  8.333333 |
-|          Mauritania  |  7.692308 |
+3. 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country 
+
+| country  |  percentage |
+| -------- | :------: |
+| Korea, North | 23.076923 | 
+| Saudi Arabia |  11.764706 | 
+| Uzbekistan   | 10.344828 | 
+| Central African Republic |  10.294118 | 
+| Romania  |  9.770115 | 
+| Guinea-Bissau |  9.523810 | 
+| Bhutan   |  9.090909 | 
+| Vietnam  |  8.376963 | 
+| Dominica     |  8.333333 | 
+| Mauritania   |  7.692308 |  
 
 4. 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
-|   country |   percent |
+
+|   country |   percentage |
 | ------- | :-------: |
 | Tanzania  | 0.245098 |
 | Czech Republic |  0.393701 |
