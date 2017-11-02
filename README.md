@@ -58,7 +58,7 @@ From our analysis following are the results that we learned and found:
 |  Congo, Dem. Rep. of     |     142  |  73340200 | 0.000194 |  
 |   Bangladesh     |     324  | 160411000 | 0.000202   |
 
-#### Countries like Nauru etc don't have a lot of politicians articles being pulished, Nauru has only 53 politician articles, but because their population of 10860 people is extremely low hence the number of articles on politician as a proportion of country population is significalty high for them compared to conutries like China with article count = 1138 and population = 1371920000. 
+#### Countries like Nauru etc don't have a lot of politicians articles being pulished, Nauru has only 53 politician articles, but because their population of 10860 people is extremely low hence the number of articles on politician as a proportion of country population is significantly high for them compared to conutries like China with article count = 1138 and population = 1371920000. 
 
 3. 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country 
 
@@ -89,7 +89,7 @@ From our analysis following are the results that we learned and found:
 |      Peru |  0.564972 |
 |  Sierra Leone |  0.602410 |
 
-#### It was a big contrast to see a country like North Korea being the highest ranked country in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country. This could be a potential research topic for wikipedia RnD group, to understand the human diversity and mentoring. 
+#### It was a big contrast to see a country like North Korea being the highest ranked country in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country. This could be a potential research topic for wikipedia's research and development group, to understand the human diversity and mentoring. 
 
 
 ## License of the source data
