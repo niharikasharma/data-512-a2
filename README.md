@@ -102,11 +102,17 @@ From our analysis following are the results that we learned and found:
 
 ## Link to all relevant API documentation and datasets
 The dataset can be found on
-1. [Figshare](https://figshare.com/articles/Untitled_Item/5513449])
+1. [Figshare](https://figshare.com/articles/Untitled_Item/5513449)
 2. The population data is on the [Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14)
-3. Wikimedia API endpoint for a machine learning system called ORES[https://www.mediawiki.org/wiki/ORES]
+3. Wikimedia API endpoint for a machine learning system called (ORES)[https://www.mediawiki.org/wiki/ORES]
 
 ## Final data file
+
+In the data directory we have three csv.
+
+1. Population Mid-2015.csv - Source ([Population Research Bureau website](http://www.prb.org/DataFinder/Topic/Rankings.aspx?ind=14)) 
+2. page_data.csv - Source ([Figshare](https://figshare.com/articles/Untitled_Item/5513449))
+3. final-data.csv	- The final csv created using the ipynb for further analysis. 
 
 We consolidated the data into a single CSV file named final_data.csv in data directory and the description of the values of all fields in the final data file is as follows:  
 
